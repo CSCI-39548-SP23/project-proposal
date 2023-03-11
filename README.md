@@ -1,4 +1,4 @@
-# CSCI-395.48 - Practical Web Development <br/> Fall 2022, Hunter College
+# CSCI-395.48 - Practical Web Development <br/> Spring 2023, Hunter College
 
 ---
 
@@ -38,7 +38,7 @@ https://rapidapi.com/hub - Another list of interesting APIs to work with.
 
 https://thecatapi.com/ - Cats are always beloved on the internet.
 
-https://www.deckofcardsapi.com/ - The deck of cards API that we covered in class, perhaps you can build a card game around it?
+https://pokeapi.co/ -  A Pokemon API to give you data about everything Pokemon!
 
 These are just a few of the **PUBLIC** APIs that you can integrate with. You are more than welcomed to integrate with other APIs that require you to sign up for a developer account/generate an API key!
 
