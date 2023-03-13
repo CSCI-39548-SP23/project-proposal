@@ -53,19 +53,20 @@ You are encourage to work in groups for the final project (although you're welco
 - Pages render properly and layout is clear.
 - Styling/CSS is done properly.
 
-### Backend - 25%
+### Backend - 30%
 - ExpressJS service is used for the backend service.
 - Routes are clearly defined and request/response is handled properly.
 - Error handling is handled for the service, it should minimize crashing.
 
-### API Integration - 20%
+### API Integration - 25%
 - Integrates with an API on the web.
 - Performs at least **ONE** HTTP request to the API
 - Accounts for error handling (i.e API is down, gets error response, etc...)
 
-### Data Persistency - 15%
+### Data Persistency - 5%
 - Application is able to store data data (either from user or API).
-- Data is persisted if application on application restart
+- Data is persisted in some form, when application restarts.
+- Read/write data from/to a datasource.
 
 ### Presentation - 10%
 - A minimum of 5min per group member, minimum of 10min for each project.
