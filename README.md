@@ -2,31 +2,34 @@
 
 ---
 
-# Final Project Proposal Description & Outline
+# Final Project Description & Outline
 
 ## Description/Overview
 
-For your final projects project, you will be creating a **FULL STACK** web application that will integrate with at least **ONE** third party API (PokeAPI, Kanye Rest, etc...) on the internet and be able to perform **C.R.U.D** operations with it. Lastly, you will also be required to implement data persistency by connecting your app to a database/storage of some sort (writing to file system, local DBs, web services, etc...). Lastly, you will also give a presentation (in person) on your final project, describing what your web app does, outlining the technologies used, your implementation, challenges etc...
+For your final project, you will be creating a **FULL STACK** web application that will integrate with at least **ONE** third party API (PokeAPI, Kanye Rest, etc...) on the internet and be able to perform **C.R.U.D** operations with it. You will also be required to implement data persistency by connecting your app to a database/storage of some sort (writing to file system, local DBs, web services, etc...). Lastly, you will also give a presentation (in person) on your final project, describing what your web app does, outlining the technologies used, your implementation, challenges etc...
 
 Unlike your assignments, for the final project, you are **HIGHLY ENCOURAGED** to work in groups! You will also be presenting as a group and each member of the group is required to contribute to the presentation, focusing on which part of the project they worked on.
 
 ---
 ##  Requirements
 
-This project is designed to help you further practice all the technologies/frameworks/concepts that we've covered in our lectures. As such, you will need to use the below technologies/frameworks:
+This project is designed to help you further practice all the technologies/frameworks/concepts that we've covered in our lectures. As such, you are highly encouraged to use the below technologies/frameworks:
 
 ### Core Technology Requirements 
-Your app **SHOULD** be centered around these two core technologies as they cover a lot of the core concepts in our course.
+Your app **SHOULD** be centered around these two core JS frameworks, as they cover a lot of the core concepts in our course.
 1. ReactJS - To build out your frontend HTML/CSS/JS pages.
 2. ExpressJS - To build out your backend services that will be running on the server.
 
+You are definitely free to write vanilla HTML/CSS/JS to build out your front/back ends, but it is highly recommended that you use these frameworks!
+
 ### Additional (Optional) Technology Requirements
-Additional frameworks/technologies that you should use for your project. You are free to use these (or not) or swap them out for other frameworks to achieve the requirements of this project.
+Additional frameworks/technologies that you should consider using for your project to achieve some of the requirements!
 
 1. ReduxJS - If you want to implement a single state for your application.
 2. NextJS/React-Router - If you want client side routing for your app.
 3. node-fetch/Axios - For fetching data on your backend service.
 4. Any CSS/styling/component libraries (Tailwind CSS, Material UI, LESS/SASS, etc...)
+5. Redis/Firebase/MongoDB - these are useful for data persistencies/storage.
 
 ### API Integration Requirements
 
@@ -40,10 +43,10 @@ https://thecatapi.com/ - Cats are always beloved on the internet.
 
 https://pokeapi.co/ -  A Pokemon API to give you data about everything Pokemon!
 
-These are just a few of the **PUBLIC** APIs that you can integrate with. You are more than welcomed to integrate with other APIs that require you to sign up for a developer account/generate an API key!
+These are just a few of the **PUBLIC** APIs that you can integrate with. You are more than welcome to integrate with other APIs that require you to sign up for a developer account/generate an API key!
 
 ### Group Structure/Requirements
-You are encourage to work in groups for the final project (although you're welcomed to fly solo on this!). Groups should be between 2-5 members each. Each member of the group is also required to contribute to the final presentation, speaking on what the component of the project that they focused on.
+You are encourage to work in groups for the final project (although you're welcome to fly solo on this!). Groups should be between 2-5 members each. Each member of the group is also required to contribute to the final presentation, speaking on what the component of the project that they focused on.
 
 ---
 ## Grading Rubric
